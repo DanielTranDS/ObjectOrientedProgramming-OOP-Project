@@ -1,1 +1,1 @@
-# ObjectOrientedProgramming-OOP-Project
+# Pandemic Simulation Object-Oriented Programming Project
